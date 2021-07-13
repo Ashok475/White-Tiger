@@ -1,6 +1,5 @@
 ## Welcome to my page
-<img src ="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Fwhite-tigers-are-man-made-freaks-2012-12&psig=AOvVaw10HvyEti0DiV-kR6JQdXu3&ust=1626259149143000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMjOvsnt3_ECFQAAAAAdAAAAABAO)">
-
+![50ca49fdecad04d76b00002d](https://user-images.githubusercontent.com/87357133/125439513-2ff34e63-96eb-48b9-9465-aadfee22a533.jpg)
 
 # White tiger
 
@@ -16,6 +15,7 @@ From Wikipedia, the free encyclopedia
 1. In popular culture
 
 **A captive white Bengal tiger at the Singapore Zoo**
+
 
 The white tiger or bleached tiger is a leucistic pigmentation variant of the Bengal tigers, Siberian Tiger and hybrids between the two, which is reported in the wild from time to time in the Indian states of Madhya Pradesh, Assam, West Bengal, Bihar and Odisha in the Sunderbans region and especially in the former State of Rewa.[1] Such a tiger has the black stripes typical of the Bengal tiger, but carries a white or near-white coat.
 
@@ -50,6 +50,7 @@ Outside of India, inbred white tigers have been prone to crossed eyes, a conditi
 
 
 **A deformed tiger**
+
 
 The orange litter-mates of white tigers are not prone to strabismus. Siamese cats and albinos of every species which have been studied all exhibit the same visual pathway abnormality found in white tigers. Siamese cats are also sometimes cross-eyed, as are some albino ferrets. The visual pathway abnormality was first documented in white tigers in the brain of a white tiger called Moni after he died, although his eyes were of normal alignment. The abnormality is that there is a disruption in the optic chiasm. The examination of Moni's brain suggested the disruption is less severe in white tigers than it is in Siamese cats. Because of the visual pathway abnormality, by which some optic nerves are routed to the wrong side of the brain, white tigers have a problem with spatial orientation, and bump into things until they learn to compensate. Some tigers compensate by crossing their eyes. When the neurons pass from the retina to the brain and reach the optic chiasma, some cross and some do not, so that visual images are projected to the wrong hemisphere of the brain. White tigers cannot see as well as normal tigers and suffer from photophobia, like albinos.[20]
 
