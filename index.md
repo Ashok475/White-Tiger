@@ -1,6 +1,6 @@
 ## Welcome to my page
+<img src ="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Fwhite-tigers-are-man-made-freaks-2012-12&psig=AOvVaw10HvyEti0DiV-kR6JQdXu3&ust=1626259149143000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMjOvsnt3_ECFQAAAAAdAAAAABAO)">
 
-https://i.insider.com/50ca49fdecad04d76b00002d?width=1000&format=jpeg&auto=webp
 
 # White tiger
 
@@ -36,7 +36,6 @@ The modern strain of snow white tigers came from repeated brother–sister matin
 
 In 2004, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Alicante, Spain. Its parents are normal orange Bengals. The cub was named "Artico" ("Arctic").
 
-https://i.ndtvimg.com/i/2018-05/delhi-zoo-white-tiger-royal-bengal-tiger-pti-650_650x400_71525852627.jpg
 
 **Genetics**
 
