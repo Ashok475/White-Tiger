@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-
+https://i.insider.com/50ca49fdecad04d76b00002d?width=1000&format=jpeg&auto=webp
 
 # White tiger
 
@@ -35,6 +35,8 @@ An additional genetic condition can result in near-complete absence of stripes, 
 The modern strain of snow white tigers came from repeated brother–sister matings of Bhim and Sumita at Cincinnati Zoo. The gene involved may have come from a Siberian tiger, their part-Siberian ancestor Tony. Continued inbreeding appears to have caused a recessive gene for stripelessness to show up. About one fourth of Bhim and Sumita's offspring were stripeless. Their striped white offspring, which have been sold to zoos around the world, may also carry the stripeless gene. Because Tony's genome is present in many white tiger pedigrees, the gene may also be present in other captive white tigers. As a result, stripeless white tigers have appeared in zoos as far afield as the Czech Republic (Liberec), Spain and Mexico. Stage magicians Siegfried & Roy were the first to attempt to selectively breed tigers for stripelessness; they owned snow-white Bengal tigers taken from Cincinnati Zoo (Tsumura, Mantra, Mirage and Akbar-Kabul) and Guadalajara, Mexico (Vishnu and Jahan), as well as a stripeless Siberian tiger called Apollo.[5]
 
 In 2004, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Alicante, Spain. Its parents are normal orange Bengals. The cub was named "Artico" ("Arctic").
+
+https://i.ndtvimg.com/i/2018-05/delhi-zoo-white-tiger-royal-bengal-tiger-pti-650_650x400_71525852627.jpg
 
 **Genetics**
 
