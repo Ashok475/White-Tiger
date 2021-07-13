@@ -39,9 +39,14 @@ For a white Bengal tiger to be born, both parents must carry the unusual gene fo
 A white tiger with almost no stripes at The Mirage in Las Vegas, the United States of America
 An additional genetic condition can result in near-complete absence of stripes, making the tiger almost pure white. One such specimen was exhibited at Exeter Change in England in 1820, and described by Georges Cuvier as "A white variety of Tiger is sometimes seen, with the stripes very opaque, and not to be observed except in certain angles of light."[3] Naturalist Richard Lydekker said that, "a white tiger, in which the fur was of a creamy tint, with the usual stripes faintly visible in certain parts, was exhibited at the old menagerie at Exeter Change about the year 1820."[4] Hamilton Smith said, "A wholly white tiger, with the stripe-pattern visible only under reflected light, like the pattern of a white tabby cat, was exhibited in the Exeter Change Menagerie in 1820.", and John George Wood stated that, "a creamy white, with the ordinary tigerine stripes so faintly marked that they were only visible in certain lights." Edwin Henry Landseer also drew this tigress in 1824.
 
+![download (1)](https://user-images.githubusercontent.com/87357133/125445012-b29f8bd3-dc56-4cc1-b667-b02712814f91.jpg)
+
+
 The modern strain of snow white tigers came from repeated brother–sister matings of Bhim and Sumita at Cincinnati Zoo. The gene involved may have come from a Siberian tiger, their part-Siberian ancestor Tony. Continued inbreeding appears to have caused a recessive gene for stripelessness to show up. About one fourth of Bhim and Sumita's offspring were stripeless. Their striped white offspring, which have been sold to zoos around the world, may also carry the stripeless gene. Because Tony's genome is present in many white tiger pedigrees, the gene may also be present in other captive white tigers. As a result, stripeless white tigers have appeared in zoos as far afield as the Czech Republic (Liberec), Spain and Mexico. Stage magicians Siegfried & Roy were the first to attempt to selectively breed tigers for stripelessness; they owned snow-white Bengal tigers taken from Cincinnati Zoo (Tsumura, Mantra, Mirage and Akbar-Kabul) and Guadalajara, Mexico (Vishnu and Jahan), as well as a stripeless Siberian tiger called Apollo.[5]
 
 In 2004, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Alicante, Spain. Its parents are normal orange Bengals. The cub was named "Artico" ("Arctic").
+
+![bengal-white-tiger-cartoon-vector-cartoon-vector-bengal-white-tiger-very-rare-endangered-specie-108475628](https://user-images.githubusercontent.com/87357133/125445081-60958f1e-8fd4-4fa3-bd31-72c078af0464.jpg)
 
 
 **Genetics**
