@@ -26,6 +26,7 @@ The white tiger or bleached tiger is a leucistic pigmentation variant of the Ben
 
 **A white tiger at the Madrid Zoo**
 
+
 The white Bengal tigers are distinctive due to the color of their fur. The white fur caused by a lack of the pigment pheomelanin, which is found in Bengal tigers with orange color fur. When compared to Bengal tigers, the white Bengal tigers tend to grow faster and heavier than the orange Bengal tiger. They also tend to be somewhat bigger at birth, and as fully grown adults. White Bengal tigers are fully grown when they are 2–3 years of age. White male tigers reach weights of 200 to 230 kilograms (440 to 510 lb) and can grow up to 3 meters (9.8 ft) in length. As with all tigers, the white Bengal tiger’s stripes are like fingerprints, with no two tigers having the same pattern. The stripes of the tiger are a pigmentation of the skin; if an individual were to be shaved, its distinctive coat pattern would still be visible.[2]
 
 For a white Bengal tiger to be born, both parents must carry the unusual gene for white colouring, which only happens naturally about once in 10,000 births.[2] Dark-striped white individuals are well-documented in the Bengal tiger subspecies (Panthera tigris) as well as having been reported historically in several other subspecies.[2] Currently, several hundred white tigers are in captivity worldwide, with about one hundred being found in India. Their unique white color fur has made them popular in entertainment showcasing exotic animals, and at zoos.
@@ -93,6 +94,9 @@ The last descendants of Bristol Zoo's white tigers were a group of orange tigers
 
 **A white Bengal tiger at the Cincinnati Zoo**
 
+![90fe7d0172c468184d71eb4d9b7cb10f4f20553f62baefda7585ebaebca184ac](https://user-images.githubusercontent.com/87357133/125444056-51c38c27-5b8a-4d2d-b704-8f5368f31018.jpg)
+
+
 Siegfried & Roy performed at least one outcross.[32] In the mid-1980s they offered to work with the Indian government in the creation of a healthier strain of white tigers. The Indian government reportedly considered the offer;[33] however, India had a moratorium on breeding white tigers after cubs were born at New Delhi Zoo with arched backs and clubbed feet, necessitating euthanasia.[33] Siegfried & Roy have bred white tigers in collaboration with the Nashville Zoo.
 
 To better preserve genetic diversity and avoid genetic defects, the Association of Zoos and Aquariums barred member zoos from intentionally breeding to produce white tigers, white lions, or king cheetahs in a white paper adopted by the board of directors in July 2011. The paper explains that selecting for or against any particular allele would result in a loss of genetic diversity. Instead, the alleles should be maintained at their natural frequencies. Inbreeding to produce abnormal appearances can also produce congenital defects that impact health and welfare. Sometimes the traits themselves can cause problems, such as albinism's visual and neural effects. Additionally, animals with an abnormal appearance do not serve as well as ambassadors for their species in the zoos' mission to educate the public.[34]
@@ -114,6 +118,7 @@ White tigers appear frequently in literature, video games, television, and comic
 he Simpsons episode "$pringfield" had parodies of Siegfried and Roy named Gunter and Ernst, with their own white tiger named Anastasia. Not as tame as Mantecore was, Anastasia turns on Gunter and Ernst and attacks them.
 
 ![14bb757cdc562344bb98f9ca346b5f62](https://user-images.githubusercontent.com/87357133/125440459-31344e52-7737-4ca2-a8b1-0660089ecf4b.jpg)
+
 
 
 
