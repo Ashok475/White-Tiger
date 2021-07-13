@@ -16,6 +16,9 @@ From Wikipedia, the free encyclopedia
 
 **A captive white Bengal tiger at the Singapore Zoo**
 
+![1200px-Standing_white_tiger](https://user-images.githubusercontent.com/87357133/125441643-e475a8be-3263-4198-bbbf-52936a4f1e00.jpg)
+
+
 
 The white tiger or bleached tiger is a leucistic pigmentation variant of the Bengal tigers, Siberian Tiger and hybrids between the two, which is reported in the wild from time to time in the Indian states of Madhya Pradesh, Assam, West Bengal, Bihar and Odisha in the Sunderbans region and especially in the former State of Rewa.[1] Such a tiger has the black stripes typical of the Bengal tiger, but carries a white or near-white coat.
 
@@ -29,6 +32,9 @@ For a white Bengal tiger to be born, both parents must carry the unusual gene fo
 
 **Stripeless tigers**
 
+![white-tiger-flickr-denise-chan](https://user-images.githubusercontent.com/87357133/125441317-e035933a-5bd0-426e-8729-343a7818750e.jpg)
+
+
 A white tiger with almost no stripes at The Mirage in Las Vegas, the United States of America
 An additional genetic condition can result in near-complete absence of stripes, making the tiger almost pure white. One such specimen was exhibited at Exeter Change in England in 1820, and described by Georges Cuvier as "A white variety of Tiger is sometimes seen, with the stripes very opaque, and not to be observed except in certain angles of light."[3] Naturalist Richard Lydekker said that, "a white tiger, in which the fur was of a creamy tint, with the usual stripes faintly visible in certain parts, was exhibited at the old menagerie at Exeter Change about the year 1820."[4] Hamilton Smith said, "A wholly white tiger, with the stripe-pattern visible only under reflected light, like the pattern of a white tabby cat, was exhibited in the Exeter Change Menagerie in 1820.", and John George Wood stated that, "a creamy white, with the ordinary tigerine stripes so faintly marked that they were only visible in certain lights." Edwin Henry Landseer also drew this tigress in 1824.
 
@@ -41,15 +47,24 @@ In 2004, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Al
 
 **Pseudo-melanistic white tiger**
 
+![blacktigernandan](https://user-images.githubusercontent.com/87357133/125440835-36e11ef7-c336-47b4-933d-392d7acd374a.jpg)
+
+
 A white tiger's pale coloration is due to the lack of the red and yellow pheomelanin pigments that normally produce the orange coloration.[6] This had long been attributed to a mutation in the gene for the tyrosinase (TYR) enzyme. A knockout mutation in this gene results in albinism, the ability to make neither pheomelanin (red and yellow pigments) nor eumelanin (black and brown pigments), while a less severe mutation in the same gene in other mammals results in selective loss of pheomelanin, the so-called Chinchilla trait. The white phenotype in tigers had been attributed to such a Chinchilla mutation in tyrosinase,[6][7][8] and in the past white tigers were sometimes referred to as 'partial albinos'.[7][9] While whole genome sequencing determined that such a TYR mutation is responsible for the white lion leucistic variant, a normal TYR gene was found in both white tigers and snow leopards.[10] Instead in white tigers a naturally-occurring point mutation in the SLC45A2 transport protein gene was found to underlie its pigmentation. The resultant single amino acid substitution introduces an alanine residue that protrudes into the transport protein's central passageway, apparently blocking it, and by a mechanism yet to be determined this prevents pheomelanin expression in the fur.[6] Mutations in the same gene are known to result in 'cream' coloration in horses,[6] and play a role in the paler skin of humans of European descent.[11] This is a recessive trait, meaning that it is only seen in individuals that are homozygous for this mutation,[6] and that while the progeny of white tigers will all be white, white tigers can be also bred from colored Bengal tiger pairs in which each possesses a single copy of the unique mutation.[12][10] Inbreeding promotes recessive traits and has been used as a strategy to produce white tigers in captivity, but this has also resulted in a range of other genetic defects.
 
 The stripe color varies due to the influence and interaction of other genes. Another genetic characteristic makes the stripes of the tiger very pale; white tigers of this type are called snow-white or "pure white". White tigers, Siamese cats, and Himalayan rabbits have enzymes in their fur which react to temperature, causing them to grow darker in the cold. A white tiger named Mohini was whiter than her relatives in the Bristol Zoo, who showed more cream tones. This may have been because she spent less time outdoors in the winter.[13] Kailash Sankhala observed that white tigers were always whiter in Rewa State, even when they were born in New Delhi and returned there. "In spite of living in a dusty courtyard, they were always snow white."[14] A weakened immune system is directly linked to reduced pigmentation in white tigers.
 
 **Defects**
+
+![maxresdefault](https://user-images.githubusercontent.com/87357133/125441500-41630aa8-631d-499b-a41c-561f3b995229.jpg)
+
+
 Outside of India, inbred white tigers have been prone to crossed eyes, a condition known as strabismus,[15] due to incorrectly routed visual pathways in the brains of white tigers. When stressed or confused, all white tigers cross their eyes.[16] Strabismus is associated with white tigers of mixed Bengal x Siberian ancestry. The only pure-Bengal white tiger reported to be cross-eyed was Mohini's daughter Rewati. Strabismus is directly linked to the white gene and is not a separate consequence of inbreeding.[17][18][19]
 
 
 **A deformed tiger**
+
+![274804083_4cb0cd2b14_z](https://user-images.githubusercontent.com/87357133/125440952-46dc8bfc-0a8a-4aa4-8949-3c895be50900.jpg)
 
 
 The orange litter-mates of white tigers are not prone to strabismus. Siamese cats and albinos of every species which have been studied all exhibit the same visual pathway abnormality found in white tigers. Siamese cats are also sometimes cross-eyed, as are some albino ferrets. The visual pathway abnormality was first documented in white tigers in the brain of a white tiger called Moni after he died, although his eyes were of normal alignment. The abnormality is that there is a disruption in the optic chiasm. The examination of Moni's brain suggested the disruption is less severe in white tigers than it is in Siamese cats. Because of the visual pathway abnormality, by which some optic nerves are routed to the wrong side of the brain, white tigers have a problem with spatial orientation, and bump into things until they learn to compensate. Some tigers compensate by crossing their eyes. When the neurons pass from the retina to the brain and reach the optic chiasma, some cross and some do not, so that visual images are projected to the wrong hemisphere of the brain. White tigers cannot see as well as normal tigers and suffer from photophobia, like albinos.[20]
@@ -68,7 +83,6 @@ There is a myth that white tigers have an 80% infant mortality rate. However, th
 
 **A captive white tiger in Birmingham, United Kingdom**
 
-**A captive white tiger in Yerevan Zoo, Armenia**
 
 Because of the extreme rarity of the white tiger allele in the wild,[14] the breeding pool was limited to the small number of white tigers in captivity. According to Kailash Sankhala, the last white tiger ever seen in the wild was shot in 1958.[14][28][29] Today there is a large number of white tigers in captivity. A white Amur tiger may have been born at Center Hill and has given rise to a strain of white Amur tigers. A man named Robert Baudy realized that his tigers had white genes when a tiger he sold to Marwell Zoo in England developed white spots, and bred them accordingly.[30] The Lowry Park Zoo in Tampa Bay had four of these white Amur tigers, descended from Robert Baudy's stock.
 
@@ -83,19 +97,24 @@ Siegfried & Roy performed at least one outcross.[32] In the mid-1980s they offer
 
 To better preserve genetic diversity and avoid genetic defects, the Association of Zoos and Aquariums barred member zoos from intentionally breeding to produce white tigers, white lions, or king cheetahs in a white paper adopted by the board of directors in July 2011. The paper explains that selecting for or against any particular allele would result in a loss of genetic diversity. Instead, the alleles should be maintained at their natural frequencies. Inbreeding to produce abnormal appearances can also produce congenital defects that impact health and welfare. Sometimes the traits themselves can cause problems, such as albinism's visual and neural effects. Additionally, animals with an abnormal appearance do not serve as well as ambassadors for their species in the zoos' mission to educate the public.[34]
 
+![e1491dc19da9d4ea0468e7b5a1422f2f](https://user-images.githubusercontent.com/87357133/125442115-99482c2e-abf8-47cc-b4f1-c22718b496b7.jpg)
+
+
 **In popular culture**
 
 **A white tiger in Tobu Zoo**
 
-**A white tiger in Liberec Zoo**
 
 White tigers appear frequently in literature, video games, television, and comic books. Such examples include the Swedish rock band Kent, which featured a white tiger on the cover of their best-selling album Vapen & ammunition in 2002. This was a tribute to the band's home town Eskilstuna, as the local zoo in town had white tigers from the Hawthorn Circus as its main attraction. The white tiger has also been featured in the video for the song "Human" by the popular American synth-rock band The Killers. White Tiger is also the name of an American glam metal band from the 1980s. In the live action version of Disney's 101 Dalmatians, Cruella de Vil kills a white tiger for its fur. Seto Bagh (or 'White Tiger' in English) is a Nepali language novel by Diamond Shumsher Rana about an encounter with a white tiger. Aravind Adiga's novel The White Tiger won the Man Booker Prize in 2008.[35] The central character and narrator refers to himself as "The White Tiger". It was a nickname given to him as a child to denote that he was unique in the "jungle" (his hometown), that he was smarter than the others. White Tigers is also the name of a Czech hockey team, that competes in the Czech Extraliga.
 
-Both the Power Rangers and the Japanese Super Sentai series on which the Power Rangers series is based, have had white tiger themed Rangers and mecha. A trained white tiger from the Bowmanville Zoo in Ontario, Canada, was used in the Animorphs TV series. A superhero named White Tiger appears in "The Justice Friends" in Dexter's Laboratory. A white tiger named White Blaze is frequently shown in the anime Ronin Warriors. Tigatron from the animated TV series Transformers: Beast Wars is based on the white tiger. There have been at least four heroes in Marvel comics called "The White Tiger": two gained powers from a group of three mystic amulets that they possessed, one was actually a tigress evolved by the High Evolutionary, and one was given an artificial version of the "Black Panther's Heart Shaped Herb".
+**Both the Power Rangers and the Japanese Super Sentai series on which the Power Rangers series is based, have had white tiger themed Rangers and mecha. A trained white tiger from the Bowmanville Zoo in Ontario, Canada, was used in the Animorphs TV series. A superhero named White Tiger appears in "The Justice Friends" in Dexter's Laboratory. A white tiger named White Blaze is frequently shown in the anime Ronin Warriors. Tigatron from the animated TV series Transformers: Beast Wars is based on the white tiger. There have been at least four heroes in Marvel comics called "The White Tiger": two gained powers from a group of three mystic amulets that they possessed, one was actually a tigress evolved by the High Evolutionary, and one was given an artificial version of the "Black Panther's Heart Shaped Herb".
 
-Kylie Chan's Dark Heavens series incorporates the four winds of Chinese mythology – including The White Tiger. In Hayate the Combat Butler, Tama, Nagi Sanzenin's pet tiger, is a white tiger. In Colleen Houck's series beginning with the novel Tiger's Curse, one of the main characters, Ren, is shown as a white tiger. In 2013, a white tiger used for an election campaign in Lahore, Pakistan, died of dehydration.[36] A white tiger named Mantecore was used as part of Siegfried & Roy's Siegfried & Roy at the Mirage Resort and Casino magical show. In 2014, Mantecore died at the age of 17 due to illness.
+**Kylie Chan's Dark Heavens series incorporates the four winds of Chinese mythology – including The White Tiger. In Hayate the Combat Butler, Tama, Nagi Sanzenin's pet tiger, is a white tiger. In Colleen Houck's series beginning with the novel Tiger's Curse, one of the main characters, Ren, is shown as a white tiger. In 2013, a white tiger used for an election campaign in Lahore, Pakistan, died of dehydration.[36] A white tiger named Mantecore was used as part of Siegfried & Roy's Siegfried & Roy at the Mirage Resort and Casino magical show. In 2014, Mantecore died at the age of 17 due to illness.**
 
-The Simpsons episode "$pringfield" had parodies of Siegfried and Roy named Gunter and Ernst, with their own white tiger named Anastasia. Not as tame as Mantecore was, Anastasia turns on Gunter and Ernst and attacks them.
+he Simpsons episode "$pringfield" had parodies of Siegfried and Roy named Gunter and Ernst, with their own white tiger named Anastasia. Not as tame as Mantecore was, Anastasia turns on Gunter and Ernst and attacks them.
+
+![14bb757cdc562344bb98f9ca346b5f62](https://user-images.githubusercontent.com/87357133/125440459-31344e52-7737-4ca2-a8b1-0660089ecf4b.jpg)
 
 
-**THANKS FOR VISITING MY PAGE!!!!**
+
+**THANKS FOR VISITING MY PAGE!!!!🐯🐯🐯🐯********
