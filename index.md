@@ -1,4 +1,4 @@
-## Welcome to my page
+<h2>Welcome to my page</h2>
 ![50ca49fdecad04d76b00002d](https://user-images.githubusercontent.com/87357133/125439513-2ff34e63-96eb-48b9-9465-aadfee22a533.jpg)
 
 # White tiger
