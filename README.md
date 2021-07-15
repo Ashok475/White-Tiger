@@ -52,7 +52,7 @@ In <date>2004</date>, a blue-eyed, stripeless white tiger was born in a wildlife
 <div>
 <hr>
 
-<section>
+
 <h2>Genetics</h2>
 
 <h2>Pseudo-melanistic white tiger</h2>
