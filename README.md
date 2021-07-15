@@ -1,7 +1,7 @@
 # White-Tiger
 The Page is only about an Animal called,White Tiger
 <h2>Welcome to my page</h2>
-<a href="https://en.wikipedia.org/wiki/White_tiger">white-tiger</a>
+<a href="https://en.wikipedia.org/wiki/White_tiger">White-Tiger</a>
 <img src="https://media.tenor.com/images/001082a2a046dac221f16e1b58988a85/tenor.gif">
  <h2>White tiger</h2>
 
@@ -42,7 +42,7 @@ An additional genetic condition can result in near-complete absence of stripes, 
 
 The modern strain of snow white tigers came from repeated brother–sister matings of Bhim and Sumita at Cincinnati Zoo. The gene involved may have come from a Siberian tiger, their part-Siberian ancestor Tony. Continued inbreeding appears to have caused a recessive gene for stripelessness to show up. About one fourth of Bhim and Sumita's offspring were stripeless. Their striped white offspring, which have been sold to zoos around the world, may also carry the stripeless gene. Because Tony's genome is present in many white tiger pedigrees, the gene may also be present in other captive white tigers. As a result, stripeless white tigers have appeared in zoos as far afield as the Czech Republic (Liberec), Spain and Mexico. Stage magicians Siegfried & Roy were the first to attempt to selectively breed tigers for stripelessness; they owned snow-white Bengal tigers taken from Cincinnati Zoo (Tsumura, Mantra, Mirage and Akbar-Kabul) and Guadalajara, Mexico (Vishnu and Jahan), as well as a stripeless Siberian tiger called Apollo.[5]
 
-In 2004, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Alicante, Spain. Its parents are normal orange Bengals. The cub was named "Artico" ("Arctic").
+In <date>2004</date>, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Alicante, Spain. Its parents are normal orange Bengals. The cub was named "Artico" ("Arctic").
 
 
 <h2>Genetics</h2>
