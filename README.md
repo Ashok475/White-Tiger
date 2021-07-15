@@ -3,18 +3,19 @@ The Page is only about an Animal called,White Tiger
 <h2>Welcome to my page</h2>
 <a href="https://en.wikipedia.org/wiki/White_tiger">white-tiger</a>
 <img src="https://media.tenor.com/images/001082a2a046dac221f16e1b58988a85/tenor.gif">
-# White tiger
+ <h2>White tiger</h2>
 
 
 White tiger
 From Wikipedia, the free encyclopedia
-1. Contents
+<strong>
+ 1. Contents
 1. Variation
 1. Stripeless tigers
 1. Genetics
 1. Defects
 1. Inbreeding and outcrossing
-1. In popular culture
+1. In popular culture</strong>
 <h2>A captive white Bengal tiger at the Singapore Zoo</h2>
 
 <img src="https://static.scientificamerican.com/sciam/cache/file/A9E415D8-B6E1-4487-BCE3BEE5C1598E33_source.jpg">
