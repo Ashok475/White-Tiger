@@ -101,7 +101,6 @@ Other genetic problems include shortened tendons of the forelegs, club foot, kid
 <p>The last descendants of Bristol Zoo's white tigers were a group of orange tigers from outcrosses which were bought by a Pakistani senator and shipped to Pakistan. Rajiv, Pretoria Zoo's white tiger, who was born in the Cincinnati Zoo, was also outcrossed and sired at least two litters of orange cubs at Pretoria Zoo. Outcrossing is not necessarily done with the intent of producing more white cubs by resuming inbreeding further down the line. Outcrossing is a way of bringing fresh blood into the white strain. The New Delhi Zoo loaned out white tigers to some of India's better zoos for outcrossing, and the government had to impose a whip to force zoos to return either the white tigers or their orange offspring.</p>
 
 
- <section>
 <h3>A white Bengal tiger at the Cincinnati Zoo</h3>
 
 <figure><img src="https://d1jyxxz9imt9yb.cloudfront.net/medialib/931/image/s1300x1300/white-tiger.jpg"></figure>
@@ -112,8 +111,7 @@ Other genetic problems include shortened tendons of the forelegs, club foot, kid
 <p>To better preserve genetic diversity and avoid genetic defects, the Association of Zoos and Aquariums barred member zoos from intentionally breeding to produce white tigers, white lions, or king cheetahs in a white paper adopted by the board of directors in July 2011. The paper explains that selecting for or against any particular allele would result in a loss of genetic diversity. Instead, the alleles should be maintained at their natural frequencies. Inbreeding to produce abnormal appearances can also produce congenital defects that impact health and welfare. Sometimes the traits themselves can cause problems, such as albinism's visual and neural effects. Additionally, animals with an abnormal appearance do not serve as well as ambassadors for their species in the zoos' mission to educate the public.</p>
 </div>
 <hr>
-</section>
-<section>
+
 <h2>In popular culture</h2>
 
 <h3>A white tiger in Tobu Zoo</h3>
