@@ -16,7 +16,6 @@ From Wikipedia, the free encyclopedia
 1. Defects
 1. Inbreeding and outcrossing
 1. In popular culture
-
 <h2>A captive white Bengal tiger at the Singapore Zoo</h2>
 
 <img src="https://static.scientificamerican.com/sciam/cache/file/A9E415D8-B6E1-4487-BCE3BEE5C1598E33_source.jpg">
