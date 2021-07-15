@@ -121,6 +121,5 @@ he Simpsons episode "$pringfield" had parodies of Siegfried and Roy named Gunter
 
 
 
-**THANKS FOR VISITING MY PAGE!!!!🐯🐯🐯🐯********
-<strong>Contact : 8754914441 </strong>
-<video src="C:\Users\Public\Videos\Sample Videos\Wildlife.wmv">
+<img src="https://i10.glitter-graphics.org/pub/2493/2493410a4kxlp9sfh.gif">
+<img src="https://media0.giphy.com/media/KCpK92XQHCutWBUz3W/200w.gif?cid=82a1493bzt74pwy9fc0ugujjg3adbskhnko7j1ldbnkcz8e0&rid=200w.gif&ct=g">+91 8754914441.
