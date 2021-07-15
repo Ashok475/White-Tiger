@@ -11,7 +11,6 @@ From Wikipedia, the free encyclopedia
 1. Genetics
 1. Defects
 1. Inbreeding and outcrossing
-<!--வெள்ளைப்புலி-->
 1. In popular culture
 
 <h2>A captive white Bengal tiger at the Singapore Zoo</h2>
