@@ -5,7 +5,6 @@
 <figure><img src="https://media.tenor.com/images/001082a2a046dac221f16e1b58988a85/tenor.gif"></figure>
  <h2>White tiger</h2>
 
-<main>
 White tiger
 From Wikipedia, the free encyclopedia
 <ul>
@@ -17,7 +16,7 @@ From Wikipedia, the free encyclopedia
 <li>Inbreeding and outcrossing</li>
  <li>In popular culture</li>
 </ul> 
-<nav>
+
 <h3>A captive white Bengal tiger at the Singapore Zoo</h3>
 
 <figure><img src="https://static.scientificamerican.com/sciam/cache/file/A9E415D8-B6E1-4487-BCE3BEE5C1598E33_source.jpg"></figure>
