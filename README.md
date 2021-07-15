@@ -88,7 +88,7 @@ Other genetic problems include shortened tendons of the forelegs, club foot, kid
  </section>
 <div>
 <hr>
-<section>
+
 <h2>Inbreeding and outcrossing</h2>
 <figure><img src="http://3.bp.blogspot.com/-jGx-KueXXqY/TvRU3blVW5I/AAAAAAAADRM/Znetw9SfSjQ/s1600/myth_white_tiger_75.jpg"></figure>
 <h3>A captive white tiger in Birmingham, United Kingdom</h3>
@@ -99,7 +99,7 @@ Other genetic problems include shortened tendons of the forelegs, club foot, kid
 <p>It has also been possible to expand the white-gene pool by outcrossing white tigers with unrelated orange tigers and then using the cubs to produce more white tigers. The white tigers Ranjit, Bharat, Priya and Bhim were all outcrossed, in some instances to more than one tiger. Bharat was bred to an unrelated orange tiger named Jack from the San Francisco Zoo and had an orange daughter named Kanchana.[31] Bharat and Priya were also bred with an unrelated orange tiger from Knoxville Zoo, and Ranjit was bred to this tiger's sister, also from Knoxville Zoo. Bhim fathered several litters with an unrelated orange tigress named Kimanthi at the Cincinnati Zoo. ankam Ranjeeth had several mates at the Omaha Zoo.</p>
 
 <p>The last descendants of Bristol Zoo's white tigers were a group of orange tigers from outcrosses which were bought by a Pakistani senator and shipped to Pakistan. Rajiv, Pretoria Zoo's white tiger, who was born in the Cincinnati Zoo, was also outcrossed and sired at least two litters of orange cubs at Pretoria Zoo. Outcrossing is not necessarily done with the intent of producing more white cubs by resuming inbreeding further down the line. Outcrossing is a way of bringing fresh blood into the white strain. The New Delhi Zoo loaned out white tigers to some of India's better zoos for outcrossing, and the government had to impose a whip to force zoos to return either the white tigers or their orange offspring.</p>
-</section>
+
 
  <section>
 <h3>A white Bengal tiger at the Cincinnati Zoo</h3>
