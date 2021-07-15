@@ -1,7 +1,7 @@
 <h2>Welcome to my page</h2>
 <a href="https://en.wikipedia.org/wiki/White_tiger">white-tiger</a>
 <img src="https://media.tenor.com/images/001082a2a046dac221f16e1b58988a85/tenor.gif">
-# White tiger
+# <h2>White tiger</h2>
 
 
 White tiger
