@@ -9,15 +9,14 @@ The Page is only about an Animal called,White Tiger
 White tiger
 From Wikipedia, the free encyclopedia
 
- <em>
- 
+
  1. Contents
 1. Variation
 1. Stripeless tigers
 1. Genetics
 1. Defects
 1. Inbreeding and outcrossing
-1. In popular culture</em>
+1. In popular culture
 
 <h2>A captive white Bengal tiger at the Singapore Zoo</h2>
 
