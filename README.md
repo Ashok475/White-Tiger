@@ -51,7 +51,7 @@ An additional genetic condition can result in near-complete absence of stripes, 
 In <date>2004</date>, a blue-eyed, stripeless white tiger was born in a wildlife refuge in Alicante, Spain. Its parents are normal orange Bengals. The cub was named "Artico" ("Arctic").
 <div>
 <hr>
-</section>
+
 <section>
 <h2>Genetics</h2>
 
