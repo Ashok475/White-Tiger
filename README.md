@@ -123,7 +123,7 @@ Other genetic problems include shortened tendons of the forelegs, club foot, kid
 
 <p>Kylie Chan's Dark Heavens series incorporates the four winds of Chinese mythology – including The White Tiger. In Hayate the Combat Butler, Tama, Nagi Sanzenin's pet tiger, is a white tiger. In Colleen Houck's series beginning with the novel Tiger's Curse, one of the main characters, Ren, is shown as a white tiger. In 2013, a white tiger used for an election campaign in Lahore, Pakistan, died of dehydration.[36] A white tiger named Mantecore was used as part of Siegfried & Roy's Siegfried & Roy at the Mirage Resort and Casino magical show. In 2014, Mantecore died at the age of 17 due to illness.</p>
 
-<p>he Simpsons episode "$pringfield" had parodies of Siegfried and Roy named Gunter and Ernst, with their own white tiger named Anastasia. Not as tame as Mantecore was, Anastasia turns on Gunter and Ernst and attacks them. </section></p></main></nav>
+<p>he Simpsons episode "$pringfield" had parodies of Siegfried and Roy named Gunter and Ernst, with their own white tiger named Anastasia. Not as tame as Mantecore was, Anastasia turns on Gunter and Ernst and attacks them. 
 <figure><img src="https://i.pinimg.com/originals/14/bb/75/14bb757cdc562344bb98f9ca346b5f62.jpg"></figure>
 
 
