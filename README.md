@@ -3,8 +3,7 @@
 <img src="https://media.tenor.com/images/001082a2a046dac221f16e1b58988a85/tenor.gif">
 # <h2>White tiger</h2>
 
-
-<strong>White tiger
+White tiger
 From Wikipedia, the free encyclopedia
 1. Contents
 1. Variation
