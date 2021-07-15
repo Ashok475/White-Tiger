@@ -133,4 +133,4 @@ Other genetic problems include shortened tendons of the forelegs, club foot, kid
 
 <footer><figure><img src="https://i10.glitter-graphics.org/pub/2493/2493410a4kxlp9sfh.gif"></figure>
 <figure><img src="https://media0.giphy.com/media/KCpK92XQHCutWBUz3W/200w.gif?cid=82a1493bzt74pwy9fc0ugujjg3adbskhnko7j1ldbnkcz8e0&rid=200w.gif&ct=g"></figure>
-<figcaption>+91 8754914441.</figcaption></ooter>
+<figcaption>+91 8754914441.</figcaption></footer>
