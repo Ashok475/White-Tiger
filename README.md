@@ -1,5 +1,5 @@
 <head> 
- <link rel='stylesheet' href='https://github.com/Ashok475/White-Tiger/blob/Rose/main.css'>
+
  # <h1>White-Tiger</h1>
 <header>The Page is only about an Animal called,White Tiger.
 <h2>Welcome to my page</h2>
