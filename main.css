@@ -5,3 +5,10 @@ h1 {
     color: red;
 font-style: italic
 }
+element.style {
+}
+@media screen and (max-width: 42em)
+.main-content {
+    padding: 2rem 1rem;
+    font-size: 2rem;
+}
