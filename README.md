@@ -1,10 +1,11 @@
-# White-Tiger
+<head> <link rel="stylesheet" href="https://github.com/Ashok475/White-Tiger/blob/Rose/Main">
+ # <h1>White-Tiger</h1>
 <header>The Page is only about an Animal called,White Tiger.
 <h2>Welcome to my page</h2>
 <a href="https://en.wikipedia.org/wiki/White_tiger">White-Tiger</a></header>
 <figure><img src="https://media.tenor.com/images/001082a2a046dac221f16e1b58988a85/tenor.gif"></figure>
  <h2>White tiger</h2>
-
+</head>
 White tiger
 From Wikipedia, the free encyclopedia
 <ul>
