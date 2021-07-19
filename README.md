@@ -1,4 +1,5 @@
 <head> 
+ <link rel="stylesheet" href="index.css" type="text">
  # <h1>White-Tiger</h1>
 <header>The Page is only about an Animal called,White Tiger.
 <h2>Welcome to my page</h2>
