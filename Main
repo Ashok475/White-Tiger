@@ -3,7 +3,7 @@ element.style {
 }
 @media screen and (max-width: 42em)
 .page-header {
-    padding: 2rem 1rem;
+    padding: 2rem 36rem;
 }
 
 .page-header {
